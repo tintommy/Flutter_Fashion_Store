@@ -16,7 +16,7 @@
 - **`domain`**: Định nghĩa logic và các use case.  
 - **`presentation`**: Hiển thị UI và quản lý trạng thái bằng Cubit.
 
-## 🖼 Hình ảnh giao diện
+
 ## 🖼 Hình ảnh giao diện
 | Màn hình chính      | Màn hình chi tiết sản phẩm |
 |---------------------|---------------------------|
